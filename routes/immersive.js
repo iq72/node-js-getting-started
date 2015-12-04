@@ -5,6 +5,10 @@ var AV = require('leanengine');
 // 详见： https://leancloud.cn/docs/js_guide.html#对象
 var Todo = AV.Object.extend('Todo');
 
+router.get('/', function(req,res,next){
+  res.render('immersive');
+});
+
 // 查询 Todo 列表
 // router.get('/', function(req, res, next) {
 //   var query = new AV.Query(Todo);
