@@ -31,13 +31,9 @@
           <div class="card layer-6"></div>
         </div>
         <div class="collections center">
-          <div class="card layer-0"></div>
-          <div class="card layer-1"></div>
-          <div class="card layer-2"></div>
-          <div class="card layer-3"></div>
-          <div class="card layer-4"></div>
-          <div class="card layer-5"></div>
-          <div class="card layer-6"></div>
+          <% for(var i=0; i<6; i++) {%>
+          <div class="card layer-<%=i%>"><iframe height=498 width=510 src="<%videos[i].get("Source")%>" frameborder=0 allowfullscreen></iframe></div>
+          <% } %>
         </div>
         <div class="collections">
           <div class="card layer-0"></div>
