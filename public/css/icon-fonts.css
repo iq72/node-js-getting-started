@@ -1,0 +1,169 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?37vbcb');
+	src:url('../fonts/icomoon.eot?#iefix37vbcb') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?37vbcb') format('truetype'),
+		url('../fonts/icomoon.woff?37vbcb') format('woff'),
+		url('../fonts/icomoon.svg?37vbcb#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-new_releases:before {
+	content: "\e016";
+}
+.icon-contacts:before {
+	content: "\e049";
+}
+.icon-forum:before {
+	content: "\e04d";
+}
+.icon-textsms:before {
+	content: "\e061";
+}
+.icon-bluetooth:before {
+	content: "\e097";
+}
+.icon-bluetooth_connected:before {
+	content: "\e098";
+}
+.icon-bluetooth_disabled:before {
+	content: "\e099";
+}
+.icon-bluetooth_searching:before {
+	content: "\e09a";
+}
+.icon-network_cell:before {
+	content: "\e0a9";
+}
+.icon-network_wifi:before {
+	content: "\e0aa";
+}
+.icon-signal_cellular_4_bar:before {
+	content: "\e0b4";
+}
+.icon-signal_cellular_connected_no_internet_4_bar:before {
+	content: "\e0b5";
+}
+.icon-signal_cellular_no_sim:before {
+	content: "\e0b6";
+}
+.icon-signal_cellular_null:before {
+	content: "\e0b7";
+}
+.icon-signal_wifi_4_bar:before {
+	content: "\e0b9";
+}
+.icon-signal_wifi_4_bar_lock:before {
+	content: "\e0ba";
+}
+.icon-signal_wifi_off:before {
+	content: "\e0bb";
+}
+.icon-storage:before {
+	content: "\e0bc";
+}
+.icon-wifi_lock:before {
+	content: "\e0be";
+}
+.icon-wifi_tethering:before {
+	content: "\e0bf";
+}
+.icon-file_download:before {
+	content: "\e0ff";
+}
+.icon-folder:before {
+	content: "\e101";
+}
+.icon-folder_open:before {
+	content: "\e102";
+}
+.icon-cast:before {
+	content: "\e104";
+}
+.icon-cast_connected:before {
+	content: "\e105";
+}
+.icon-desktop_mac:before {
+	content: "\e107";
+}
+.icon-desktop_windows:before {
+	content: "\e108";
+}
+.icon-laptop_chromebook:before {
+	content: "\e11a";
+}
+.icon-phone_iphone:before {
+	content: "\e120";
+}
+.icon-smartphone:before {
+	content: "\e127";
+}
+.icon-tv:before {
+	content: "\e12e";
+}
+.icon-camera:before {
+	content: "\e144";
+}
+.icon-camera_alt:before {
+	content: "\e145";
+}
+.icon-leak_add:before {
+	content: "\e18a";
+}
+.icon-leak_remove:before {
+	content: "\e18b";
+}
+.icon-movie_creation:before {
+	content: "\e196";
+}
+.icon-music_note:before {
+	content: "\e197";
+}
+.icon-photo:before {
+	content: "\e1a2";
+}
+.icon-beenhere:before {
+	content: "\e1c7";
+}
+.icon-local_movies:before {
+	content: "\e1e5";
+}
+.icon-terrain:before {
+	content: "\e1fc";
+}
+.icon-sms:before {
+	content: "\e229";
+}
+.icon-sms_failed:before {
+	content: "\e22a";
+}
+.icon-system_update:before {
+	content: "\e22e";
+}
+.icon-personal_video:before {
+	content: "\e23f";
+}
+.icon-wifi:before {
+	content: "\e242";
+}
+.icon-notifications:before {
+	content: "\e24a";
+}
+.icon-question_answer:before {
+	content: "\e2c3";
+}
